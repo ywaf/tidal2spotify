@@ -15,5 +15,6 @@ Tidal doesnt have an official API, this script uses a lib which is made from rev
 
 # Libs used
 https://github.com/tamland/python-tidal
+
 https://github.com/spotipy-dev/spotipy
 
