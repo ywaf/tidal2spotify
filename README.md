@@ -9,9 +9,10 @@ Tidal doesnt have an official API, this script uses a lib which is made from rev
 3. Get spotify oauth creds, [Here](https://developer.spotify.com/) - clientID and clientSecret
 4. Put these in the code
 5. Comment / Uncomment lines based on what you would like the script to do
-6. Run the script
-7. Check the desired output on Spotify
-8. Profit?
+6. Create a file ```error.txt``` in the same folder as the script - songs failed to be matched by Spotify API will be written here
+7. Run the script
+8. Check the desired output on Spotify
+9. Profit?
 
 # Libs used
 https://github.com/tamland/python-tidal
